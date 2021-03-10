@@ -12,4 +12,3 @@ def password(length=8):
 
 result = password(5)
 print(result)
-    
